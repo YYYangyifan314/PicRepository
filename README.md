@@ -1,0 +1,9 @@
+# 公开图库使用说明
+
+在pic中设置仓库名为YYYangyifan314/PicRepository
+
+设定分支名为master
+
+token为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
+
+保存地址为data文件夹中
